@@ -1,3 +1,4 @@
+[中文版 / Chinese Version](README_CN.md)
 # Cross River Rail – Excel Project Analytics
 
 ## Overview
